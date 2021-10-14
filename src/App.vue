@@ -19,6 +19,7 @@ export default {
 
 .page-wrapper{
   width: 100vw;
+  min-height: 100vh;
   padding: 28px 40px;
   box-sizing: border-box;
   
