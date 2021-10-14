@@ -3,8 +3,8 @@
     <div class="menu">
       <p class="title">МЕНЮ</p>
       <div class="links">
-        <a href="/converter" class="link">КОНВЕРТЕР</a>
-        <a href="/case" class="link">ПОРТФЕЛЬ</a>
+        <a href="converter" class="link">КОНВЕРТЕР</a>
+        <a href="case" class="link">ПОРТФЕЛЬ</a>
       </div>
     </div>
   </div>
