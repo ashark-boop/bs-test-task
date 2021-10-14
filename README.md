@@ -1,6 +1,8 @@
 # Тестовое задание для BCS CHAIN
 
 ## Маршруты в проекте:
+``` https://ashark-boop.github.io/bs-test-task/ ``` - GitHub Pages
+
 ``` /converter ``` - Страница с Конвертером
 
 ``` /case ``` - Страница с Портфелем
