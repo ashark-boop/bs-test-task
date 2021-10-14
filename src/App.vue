@@ -18,14 +18,13 @@ export default {
 }
 
 .page-wrapper{
-  width: 100vw;
+  width: 100%;
   min-height: 100vh;
   padding: 28px 40px;
   box-sizing: border-box;
   
   background: linear-gradient(180deg,#29262e 0,#29262e);
   min-width: 640px;
-  min-height: 320px;
 }
 
 .title{
